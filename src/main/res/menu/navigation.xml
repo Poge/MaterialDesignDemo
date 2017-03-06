@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/color_change"
+            android:title="Color"
+            android:checked="true"
+            android:icon="@drawable/add_change"/>
+        <item android:id="@+id/search"
+            android:title="Search"
+            android:icon="@drawable/home_search"/>
+        <item android:id="@+id/del"
+            android:title="Delr"
+            android:icon="@drawable/press_del"/>
+    </group>
+
+</menu>

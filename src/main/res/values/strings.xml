@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+
+    <array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Grape</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Pear</item>
+        <item>Pineapple</item>
+        <item>Strawberry</item>
+        <item>watermelon</item>
+    </array>
+
+</resources>
